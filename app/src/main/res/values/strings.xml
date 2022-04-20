@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrivoSDKExample</string>
+    <string name="start_privo_activity">Start Privo Activity</string>
+</resources>
